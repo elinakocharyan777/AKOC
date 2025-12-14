@@ -1,0 +1,9 @@
+clients=80
+rooms=10
+arrive_min_ms=0
+arrive_max_ms=100
+nights_min=1
+nights_max=3
+day_ms=200
+seed=777
+out=run_big.log
