@@ -1,0 +1,9 @@
+clients=5
+rooms=10
+arrive_min_ms=0
+arrive_max_ms=700
+nights_min=1
+nights_max=3
+day_ms=250
+seed=1
+out=run_conf.log

@@ -1,0 +1,9 @@
+clients=40
+rooms=10
+arrive_min_ms=0
+arrive_max_ms=300
+nights_min=2
+nights_max=4
+day_ms=300
+seed=42
+out=run_queue.log
